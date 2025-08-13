@@ -17,7 +17,7 @@ The model leverages **transfer learning** for high accuracy with limited trainin
 
 ---
 
-# 📂 **Dataset**
+# 📂 **Dataset** Link: https://www.kaggle.com/datasets/prasadchaskar/indian-food-datatset
 The dataset consists of **7 Indian food categories**, organized in `train/` and `test/` directories after preprocessing.  
 Each category contains **hundreds of images** in `.jpg`, `.png`, and `.jpeg` formats.
 
@@ -37,3 +37,4 @@ After training for multiple epochs, the model achieved:
 - **Clear separation of classes** in visual predictions.
 
 ---
+
